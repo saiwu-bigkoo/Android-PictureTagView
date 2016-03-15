@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical" >
+    
     <com.picturetagview.PictureTagLayout 
         android:background="@drawable/bg_test"
         android:layout_marginTop="200dp"
